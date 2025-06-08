@@ -1,8 +1,6 @@
 # Website
 *(University project)*
 
-PHP project using databases
-
 ## Tasks were:
 - utilise cookies and sessions
 - utilise *remember me*
