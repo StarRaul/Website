@@ -17,4 +17,4 @@
 - utilise canvas and svg elements
 
 ## Known issues:
-- The 3 startup pages share the same files when uploaded
+- The 3 pages on the startup page share the same files
